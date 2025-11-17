@@ -1,3 +1,5 @@
+Each script contains its own Google Colab link, and all model results can be accessed directly through the corresponding notebooks.
+
 Article: Machine Learning Approaches to Ground Motion Models for Duration and Velocity-Based Intensity Measures in Türkiye with Magnitude-Dependent Performance Assessment
 
 Associated code files:
